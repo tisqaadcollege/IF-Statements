@@ -1,0 +1,13 @@
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\bin\Debug\IF Statements.exe.config
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\bin\Debug\IF Statements.exe
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\bin\Debug\IF Statements.pdb
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\obj\Debug\IF Statements.csproj.AssemblyReference.cache
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\obj\Debug\IF Statements.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\obj\Debug\IF_Statements.frmDemo.resources
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\obj\Debug\IF_Statements.Properties.Resources.resources
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\obj\Debug\IF Statements.csproj.GenerateResource.cache
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\obj\Debug\IF Statements.csproj.CoreCompileInputs.cache
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\obj\Debug\IF Statements.exe
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\obj\Debug\IF Statements.pdb
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\obj\Debug\IF_Statements.frmVote.resources
+C:\Users\Abdirisak\source\repos\Class 630\IF Statements\IF Statements\obj\Debug\IF_Statements.frmTemp.resources
